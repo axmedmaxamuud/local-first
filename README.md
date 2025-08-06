@@ -1,1 +1,3 @@
-This is the README File
+This is README File.
+
+Some more text explaining the repository will go here.
